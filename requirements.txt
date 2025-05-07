@@ -1,5 +1,4 @@
 missingno
 joblib
 plotly
-pickle
 gdown
