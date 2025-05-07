@@ -4,3 +4,4 @@ plotly
 gdown
 streamlit
 scikit-learn
+imblearn
