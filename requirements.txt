@@ -2,3 +2,4 @@ missingno
 joblib
 plotly
 gdown
+streamlit
