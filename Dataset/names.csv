@@ -1,0 +1,376 @@
+,Columns
+0,Hazard Type
+1,Structure Category
+2,Eaves
+3,Window Pane
+4,Deck/Porch On Grade
+5,Deck/Porch Elevated
+6,Patio Cover/Carport Attached to Structure
+7,Fence Attached to Structure
+8,Assessed Improved Value (parcel)
+9,Year Built (parcel)
+10,Latitude
+11,Longitude
+12,"Street Type (e.g. road, drive, lane, etc.)_Avenue"
+13,"Street Type (e.g. road, drive, lane, etc.)_Boulevard"
+14,"Street Type (e.g. road, drive, lane, etc.)_Circle"
+15,"Street Type (e.g. road, drive, lane, etc.)_Court"
+16,"Street Type (e.g. road, drive, lane, etc.)_Dirt road"
+17,"Street Type (e.g. road, drive, lane, etc.)_Drive"
+18,"Street Type (e.g. road, drive, lane, etc.)_Ext."
+19,"Street Type (e.g. road, drive, lane, etc.)_Grade"
+20,"Street Type (e.g. road, drive, lane, etc.)_Hwy"
+21,"Street Type (e.g. road, drive, lane, etc.)_Lane"
+22,"Street Type (e.g. road, drive, lane, etc.)_Loop"
+23,"Street Type (e.g. road, drive, lane, etc.)_Other"
+24,"Street Type (e.g. road, drive, lane, etc.)_Parkway"
+25,"Street Type (e.g. road, drive, lane, etc.)_Pass"
+26,"Street Type (e.g. road, drive, lane, etc.)_Place"
+27,"Street Type (e.g. road, drive, lane, etc.)_Road"
+28,"Street Type (e.g. road, drive, lane, etc.)_Route"
+29,"Street Type (e.g. road, drive, lane, etc.)_Street"
+30,"Street Type (e.g. road, drive, lane, etc.)_Terrace"
+31,"Street Type (e.g. road, drive, lane, etc.)_Trail"
+32,"Street Type (e.g. road, drive, lane, etc.)_Unk"
+33,"Street Type (e.g. road, drive, lane, etc.)_Way"
+34,"Street Type (e.g. road, drive, lane, etc.)_not given"
+35,"Street Type (e.g. road, drive, lane, etc.)_not noted"
+36,CAL FIRE Unit_BDU
+37,CAL FIRE Unit_BEU
+38,CAL FIRE Unit_BTU
+39,CAL FIRE Unit_CZU
+40,CAL FIRE Unit_FKU
+41,CAL FIRE Unit_HUU
+42,CAL FIRE Unit_KRN
+43,CAL FIRE Unit_LAC
+44,CAL FIRE Unit_LMU
+45,CAL FIRE Unit_LNU
+46,CAL FIRE Unit_MEU
+47,CAL FIRE Unit_MMU
+48,CAL FIRE Unit_MVU
+49,CAL FIRE Unit_NEU
+50,CAL FIRE Unit_ORC
+51,CAL FIRE Unit_RRU
+52,CAL FIRE Unit_SBC
+53,CAL FIRE Unit_SCU
+54,CAL FIRE Unit_SDU
+55,CAL FIRE Unit_SHU
+56,CAL FIRE Unit_SKU
+57,CAL FIRE Unit_SLU
+58,CAL FIRE Unit_TCU
+59,CAL FIRE Unit_TGU
+60,CAL FIRE Unit_TUU
+61,CAL FIRE Unit_VNC
+62,Incident Name_Aborn
+63,Incident Name_Aero
+64,Incident Name_Agua
+65,Incident Name_Airport
+66,Incident Name_Alamo
+67,Incident Name_Alisal
+68,Incident Name_Andrew
+69,Incident Name_Antelope
+70,Incident Name_Anzar
+71,Incident Name_Apache
+72,Incident Name_Apple
+73,Incident Name_Argyle
+74,Incident Name_Atlas
+75,Incident Name_August Complex
+76,Incident Name_Avila
+77,Incident Name_BEU Lightning Cmplx
+78,Incident Name_Bart
+79,Incident Name_Bear
+80,Incident Name_Beckwourth
+81,Incident Name_Black
+82,Incident Name_Blue Ridge
+83,Incident Name_Bobcat
+84,Incident Name_Bogus
+85,Incident Name_Boles
+86,Incident Name_Bond
+87,Incident Name_Bonny
+88,Incident Name_Boone
+89,Incident Name_Border 32
+90,Incident Name_Borel
+91,Incident Name_Branch
+92,Incident Name_Bridge
+93,Incident Name_Broiler
+94,Incident Name_Brownell
+95,Incident Name_Bullion
+96,Incident Name_Butte
+97,Incident Name_CZU Lightning Cmplx
+98,Incident Name_Cache
+99,Incident Name_Caldor
+100,Incident Name_Calgary
+101,Incident Name_Cameron
+102,Incident Name_Camp
+103,Incident Name_Canyon
+104,Incident Name_Canyon 2
+105,Incident Name_Carder
+106,Incident Name_Carmel
+107,Incident Name_Carr
+108,Incident Name_Cartago
+109,Incident Name_Cascade
+110,Incident Name_Cathedral
+111,Incident Name_Cherokee
+112,Incident Name_Chimney
+113,Incident Name_Circle
+114,Incident Name_Clayton
+115,Incident Name_Clover
+116,Incident Name_Coastal
+117,Incident Name_Cocos
+118,Incident Name_Coffee Pot
+119,Incident Name_Colorado
+120,Incident Name_Colusa
+121,Incident Name_Corral
+122,Incident Name_County
+123,Incident Name_Coyote
+124,Incident Name_Coyote 
+125,Incident Name_Cranston
+126,Incident Name_Creek
+127,Incident Name_Creekside
+128,Incident Name_Crews
+129,Incident Name_Deer
+130,Incident Name_Delta
+131,Incident Name_Dersch 
+132,Incident Name_Detwiler
+133,Incident Name_Dixie
+134,Incident Name_Dorvel
+135,Incident Name_Dutcher
+136,Incident Name_El Dorado
+137,Incident Name_Emerald
+138,Incident Name_Erskine
+139,Incident Name_Estate
+140,Incident Name_FKU June Lightning
+141,Incident Name_Fairview
+142,Incident Name_Fawn
+143,Incident Name_Fay
+144,Incident Name_Fiddletown
+145,Incident Name_Flats
+146,Incident Name_Flowers
+147,Incident Name_Foothill
+148,Incident Name_Ford
+149,Incident Name_Fork
+150,Incident Name_Franklin
+151,Incident Name_Frazier
+152,Incident Name_French
+153,Incident Name_Garza
+154,Incident Name_Getty
+155,Incident Name_Glass
+156,Incident Name_Glen
+157,Incident Name_Gold
+158,Incident Name_Goose
+159,Incident Name_Grade
+160,Incident Name_Graham
+161,Incident Name_Grant
+162,Incident Name_Gray
+163,Incident Name_Gulch
+164,Incident Name_Happy Camp Complex
+165,Incident Name_Harney
+166,Incident Name_Helena
+167,Incident Name_Hesperia
+168,Incident Name_High
+169,Incident Name_Highland
+170,Incident Name_Hill
+171,Incident Name_Hog
+172,Incident Name_Holiday
+173,Incident Name_Holy
+174,Incident Name_Homestead
+175,Incident Name_Hopkins
+176,Incident Name_Horse
+177,Incident Name_Horseshoe
+178,Incident Name_Hyatt
+179,Incident Name_Intanko
+180,Incident Name_Irish
+181,Incident Name_John
+182,Incident Name_John 2
+183,Incident Name_Jones
+184,Incident Name_Junes
+185,Incident Name_Kincade
+186,Incident Name_King
+187,Incident Name_Klamathon
+188,Incident Name_LNU Lightning Cmplx
+189,Incident Name_Lake
+190,Incident Name_Laporte
+191,Incident Name_Laura 2
+192,Incident Name_Lava
+193,Incident Name_Laverne
+194,Incident Name_Leonard
+195,Incident Name_Liberty
+196,Incident Name_Lilac
+197,Incident Name_Line
+198,Incident Name_Lobo
+199,Incident Name_Loma
+200,Incident Name_Long
+201,Incident Name_Lower
+202,Incident Name_Mallard
+203,Incident Name_Maria
+204,Incident Name_Marsh
+205,Incident Name_Marshall
+206,Incident Name_McCourtney
+207,Incident Name_McFarland
+208,Incident Name_McKinney
+209,Incident Name_McLane
+210,Incident Name_Meyers
+211,Incident Name_Mill
+212,Incident Name_Miller
+213,Incident Name_Milton
+214,Incident Name_Mines
+215,Incident Name_Mission
+216,Incident Name_Montaire
+217,Incident Name_Montero
+218,Incident Name_Monument
+219,Incident Name_Mosquito
+220,Incident Name_Mountain
+221,Incident Name_Nelda
+222,Incident Name_Nelson
+223,Incident Name_Nicolaus
+224,Incident Name_Nixon
+225,Incident Name_North Complex
+226,Incident Name_Nuns
+227,Incident Name_Oak
+228,Incident Name_Olinda
+229,Incident Name_Oliveira
+230,Incident Name_Omega
+231,Incident Name_Owens River
+232,Incident Name_Pablo
+233,Incident Name_Park
+234,Incident Name_Patricia
+235,Incident Name_Pawnee
+236,Incident Name_Pay
+237,Incident Name_Peach
+238,Incident Name_Peak
+239,Incident Name_Pebble
+240,Incident Name_Pedro
+241,Incident Name_Peter
+242,Incident Name_Pine Flat
+243,Incident Name_Pleasant
+244,Incident Name_Plumas
+245,Incident Name_Pocket
+246,Incident Name_Point
+247,Incident Name_Pond
+248,Incident Name_Ponderosa
+249,Incident Name_Post
+250,Incident Name_Posta
+251,Incident Name_Purple
+252,Incident Name_Quail
+253,Incident Name_Quarry
+254,Incident Name_Railbridge
+255,Incident Name_Railroad
+256,Incident Name_Rainbow
+257,Incident Name_Ranch
+258,Incident Name_Rancho
+259,Incident Name_Reche
+260,Incident Name_Red Bank
+261,Incident Name_Redwood
+262,Incident Name_Riata
+263,Incident Name_Rices
+264,Incident Name_Richmond
+265,Incident Name_Ridge
+266,Incident Name_Rimrock
+267,Incident Name_River
+268,Incident Name_Robinson
+269,Incident Name_Rock
+270,Incident Name_Rocky
+271,Incident Name_Round
+272,Incident Name_Ruby
+273,Incident Name_SCU Lightning Cmplx
+274,Incident Name_SQF Complex
+275,Incident Name_Saddleridge
+276,Incident Name_Salt
+277,Incident Name_Sand
+278,Incident Name_Sandalwood
+279,Incident Name_Sandra
+280,Incident Name_Sheep
+281,Incident Name_Silver
+282,Incident Name_Silverado
+283,Incident Name_Sites
+284,Incident Name_Skirball
+285,Incident Name_Slater
+286,Incident Name_Soberanes
+287,Incident Name_Southern
+288,Incident Name_Spenceville
+289,Incident Name_Spring
+290,Incident Name_Springs
+291,Incident Name_Stagecoach
+292,Incident Name_Star
+293,Incident Name_Steele
+294,Incident Name_Steins
+295,Incident Name_Still
+296,Incident Name_Stoll
+297,Incident Name_Stone
+298,Incident Name_Sulphur
+299,Incident Name_Sun
+300,Incident Name_Swedes
+301,Incident Name_Tamarack
+302,Incident Name_Tassajara
+303,Incident Name_Tenant
+304,Incident Name_Thirty Seven
+305,Incident Name_Thomas
+306,Incident Name_Thompson
+307,Incident Name_Tick
+308,Incident Name_Timm
+309,Incident Name_Trinity
+310,Incident Name_Truitman
+311,Incident Name_Tubbs
+312,Incident Name_Usher
+313,Incident Name_Valley
+314,Incident Name_Vestal
+315,Incident Name_View
+316,Incident Name_Vista
+317,Incident Name_Wagner
+318,Incident Name_Wall
+319,Incident Name_Washington 
+320,Incident Name_Waverly
+321,Incident Name_West
+322,Incident Name_Whisky
+323,Incident Name_White
+324,Incident Name_Whittier
+325,Incident Name_Willow
+326,Incident Name_Winding
+327,Incident Name_Windy
+328,Incident Name_Woods
+329,Incident Name_Woolsey
+330,Incident Name_Zogg
+331,Structure Type_Church
+332,Structure Type_Commercial Building Multi Story
+333,Structure Type_Commercial Building Single Story
+334,Structure Type_Hospital
+335,Structure Type_Infrastructure
+336,Structure Type_Mixed Commercial/Residential
+337,Structure Type_Mobile Home Double Wide
+338,Structure Type_Mobile Home Single Wide
+339,Structure Type_Mobile Home Triple Wide
+340,Structure Type_Motor Home
+341,Structure Type_Multi Family Residence Multi Story
+342,Structure Type_Multi Family Residence Single Story
+343,Structure Type_School
+344,Structure Type_Single Family Residence Multi Story
+345,Structure Type_Single Family Residence Single Story
+346,Structure Type_Single Famliy Residence Single Story
+347,Structure Type_Utility Misc Structure
+348,Structure Type_Utility or Miscellaneous Structure > 120 sqft
+349,Roof Construction_Combustible
+350,Roof Construction_Concrete
+351,Roof Construction_Fire Resistant
+352,Roof Construction_Metal
+353,Roof Construction_No Deck/Porch
+354,Roof Construction_Other
+355,Roof Construction_Tile
+356,Roof Construction_Unknown
+357,Roof Construction_Wood
+358,Vent Screen_>30
+359,Vent Screen_Deck Elevated
+360,"Vent Screen_Mesh Screen <= 1/8"""""
+361,"Vent Screen_Mesh Screen > 1/8"""""
+362,Vent Screen_No Vents
+363,Vent Screen_Screened
+364,Vent Screen_Unknown
+365,Vent Screen_Unscreened
+366,Exterior Siding_Fire Resistant
+367,Exterior Siding_Ignition Resistant
+368,Exterior Siding_Metal
+369,Exterior Siding_Other
+370,Exterior Siding_Stucco Brick Cement
+371,Exterior Siding_Stucco/Brick/Cement
+372,Exterior Siding_Unknown
+373,Exterior Siding_Vinyl
+374,Exterior Siding_Wood
