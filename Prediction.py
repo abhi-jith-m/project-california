@@ -12,15 +12,15 @@ from PIL import Image
 
 import gdown
 import os
-# file_id = '18QM9AiAUroch0BFeFk2Fi5q0e5Wft1ym'
-# url = f'https://drive.google.com/uc?id={file_id}'
-# output_path = 'Dataset/random_forest.joblib'
-# if not os.path.exists(output_path):
-#     os.makedirs(os.path.dirname(output_path), exist_ok=True)  # Ensure directory exists
-#     gdown.download(url, output_path, quiet=False)
-#     print(f"✅ File downloaded to: {os.path.abspath(output_path)}")
-# else:
-#     print(f"⚠ File already exists at: {os.path.abspath(output_path)} - Skipping download.")
+file_id = '18QM9AiAUroch0BFeFk2Fi5q0e5Wft1ym'
+url = f'https://drive.google.com/uc?id={file_id}'
+output_path = 'Dataset/random_forest.joblib'
+if not os.path.exists(output_path):
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)  # Ensure directory exists
+    gdown.download(url, output_path, quiet=False)
+    print(f"✅ File downloaded to: {os.path.abspath(output_path)}")
+else:
+    print(f"⚠ File already exists at: {os.path.abspath(output_path)} - Skipping download.")
 
 # Custom CSS for styling
 st.markdown("""
@@ -79,7 +79,7 @@ def prediction():
         with st.spinner("Loading models and data..."):
             df = pd.read_csv('Dataset/names.csv')
             df1 = pd.read_csv('Dataset/df_cleaned.csv')
-            # rf_classifier = joblib.load('Dataset/random_forest.joblib')
+            rf_classifier = joblib.load('Dataset/random_forest.joblib')
             with open("label_encoders.pkl", "rb") as f:
                 label_encoders = pickle.load(f)
             sc_loaded = joblib.load("scaler.pkl")
