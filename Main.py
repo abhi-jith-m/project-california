@@ -15,7 +15,6 @@ def Main(df):
 
     # Sidebar UI with uniform-width navigation buttons
     with st.sidebar:
-        st.title("Navigation")
         
         # Set page via radio buttons
         selected = st.radio(
